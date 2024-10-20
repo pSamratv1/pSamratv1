@@ -198,9 +198,9 @@ If you want to set off and go develop some grand new thing, you don’t need mil
 
 <h1></h1>
 <h1></h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-samrat&show_icons=true&locale=en&layout=compact" alt="code-samrat" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pSamratv1&show_icons=true&locale=en&layout=compact" alt="code-samrat" /></p>
 <h1></h1>
 <h1></h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-samrat&show_icons=true&locale=en" alt="code-samrat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pSamratv1&show_icons=true&locale=en" alt="code-samrat" /></p>
 <h1></h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-samrat&" alt="code-samrat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=pSamratv1&" alt="code-samrat" /></p>

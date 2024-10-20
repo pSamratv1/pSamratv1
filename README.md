@@ -23,13 +23,13 @@
 
 ## I'm a Student | Developer | Friend | Teacher !!
 
-- 🔭 Check out my Python course:<a align="center" href="https://github.com/CODE-SAMRAT/python_tuts.git">[Become A Python SuperHero!]</a>
-- 🧬 Check out my React course:<a align="center" href="https://github.com/CODE-SAMRAT/python_tuts.git">[Become A React SuperHero!]</a>
+- 🔭 Check out my Python course:<a align="center" href="https://github.com/pSamratv1/python_tuts.git">[Become A Python SuperHero!]</a>
+- 🧬 Check out my React course:<a align="center" href="https://github.com/pSamratv1/python_tuts.git">[Become A React SuperHero!]</a>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about web3 and blockchains
 - ⚡ Fun fact: I love to draw and play guitar
-- 😻 Check out the projects I have contributed: [Github](https://github.com/CODE-SAMRAT)
+- 😻 Check out the projects I have contributed: [Github](https://github.com/pSamratv1)
  <h1></h1>
  <br/>
 <h1></h1>

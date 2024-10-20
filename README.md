@@ -48,7 +48,7 @@ If you want to set off and go develop some grand new thing, you don’t need mil
 <h1></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pSamratv1&label=Profile%20views&color=0e75b6&style=flat" alt="code-samrat" width="200"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-samrat" alt="code-samrat" width="2800"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pSamratv1" alt="code-samrat" width="2800"/></a> </p>
 <h1></h1>
 
  <br/>

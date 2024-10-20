@@ -203,4 +203,4 @@ If you want to set off and go develop some grand new thing, you don’t need mil
 <h1></h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pSamratv1&show_icons=true&locale=en" alt="code-samrat" /></p>
 <h1></h1>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pSamratv1&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=pSamratv1&theme=nightfox&hide_border=true" alt="GitHub Streak" /></p>
